@@ -1,0 +1,9 @@
+data/Hi-En-Ba-Dataset(100k_3)
+data/Ta-Mal-Kan-Dataset(22k_3)
+
+venv
+
+embeddings.csv
+embeddings/3-fasttext-m/cc.en.300.bin.gz
+embeddings/3-fasttext-m/cc.en.300.bin
+dataset_cleaned.csv
