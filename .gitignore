@@ -2,8 +2,16 @@ data/Hi-En-Ba-Dataset(100k_3)
 data/Ta-Mal-Kan-Dataset(22k_3)
 
 venv
+.env
 
 embeddings.csv
+embeddings_int.csv
+dataset_cleaned.csv
+
 embeddings/3-fasttext-m/cc.en.300.bin.gz
 embeddings/3-fasttext-m/cc.en.300.bin
-dataset_cleaned.csv
+
+texts_for_ft.txt
+vocabulary.json
+
+embeddings/1-glove-s
