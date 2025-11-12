@@ -67,7 +67,7 @@ This notebook provides the main workflow for training and evaluating models.
 Navigate to any embedding directory and run the respective `main.ipynb`:
 
 ```bash
-cd embeddings/4-XLM-RoBERTa-m/
+cd embeddings/7-geminiApi-m/
 jupyter notebook main.ipynb
 ```
 

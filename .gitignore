@@ -1,17 +1,31 @@
+# dataset
 data/Hi-En-Ba-Dataset(100k_3)
 data/Ta-Mal-Kan-Dataset(22k_3)
 
+# venv
 venv
 .env
 
+# intermediate embeddings
 embeddings.csv
 embeddings_int.csv
 dataset_cleaned.csv
 
+# fasttext model
 embeddings/3-fasttext-m/cc.en.300.bin.gz
 embeddings/3-fasttext-m/cc.en.300.bin
 
+# embedding generation trials
+embeddings/1-glove-s
+embeddings/2-customNgrams-s
+embeddings/3-fasttext-m
+embeddings/4-XLM-RoBERTa-m
+embeddings/5-word2vec-m
+embeddings/6-Bert-s
+
+
+
+# misc
 texts_for_ft.txt
 vocabulary.json
-
-embeddings/1-glove-s
+featureTrial.ipynb
